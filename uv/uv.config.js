@@ -1,6 +1,6 @@
 self.__uv$config = {
     prefix: '/uv/service/',
-    bare: 'bare: 'https://tomp.app/',
+    bare: 'bare: 'wss://wisp.eaglercraft.q13x.com',
 ',
     encodeUrl: Ultraviolet.codec.xor.encode,
     decodeUrl: Ultraviolet.codec.xor.decode,
