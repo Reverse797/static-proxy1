@@ -1,7 +1,7 @@
 self.__uv$config = {
     prefix: '/uv/service/',
-    bare: 'bare: 'wss://wisp.eaglercraft.q13x.com',
-',
+    bare: '/bare/', 
+    wisp: 'wss://wisp.eaglercraft.q13x.com',
     encodeUrl: Ultraviolet.codec.xor.encode,
     decodeUrl: Ultraviolet.codec.xor.decode,
     handler: '/uv/uv.handler.js',
